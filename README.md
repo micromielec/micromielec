@@ -4,7 +4,7 @@
 
 <a href="https://sites.google.com/view/takeout-gcu/%EC%9E%84%EC%9B%90%EC%A7%84/19%EA%B8%B0-%EB%B0%95%EC%B0%AC%EB%AF%B8" target="_blank"><img src="https://img.shields.io/badge/Team.-Take Out-informational?style=flat-square&logo=&logoColor=1E90FF"/></a>
 
-
+- Self-driving & Robot & Embedded System _ Development Club
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micromielec&show_icons=true&theme=github_dark)
 
 <!--
