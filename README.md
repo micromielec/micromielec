@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=300&section=header&text=Cold_Rice_GITHUB%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=300&section=header)
 
 ### Hi  🚙
 
