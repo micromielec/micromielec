@@ -11,7 +11,7 @@
 
   <img src="https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=c++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=C++&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micromielec&show_icons=true&theme=github_dark)
