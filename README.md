@@ -10,6 +10,8 @@
 💭language
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=C&logoColor=black"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micromielec&show_icons=true&theme=github_dark)
 
